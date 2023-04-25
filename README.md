@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=3000&pause=1500&center=true&vCenter=true&width=435&lines=front-end+web+developer;always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=front-end+web+developer;always+learning+new+things" alt="Typing SVG" /></a>
 </p> 
 
 - I'm a front-end web developer seeking an internship  to improve my skills and work with a great team.

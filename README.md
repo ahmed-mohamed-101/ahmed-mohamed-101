@@ -11,7 +11,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=front-end+web+developer;always+learning+new+things" alt="Typing SVG" /></a>
 </p> 
 
--As a web developer, I am seeking an internship to leverage my skills and to gain practical experience. I am passionate about using my knowledge to solve real-world problems and eager to learn from experienced professionals in the field. I built some websites with front-end and back-end and I am confident in my ability to thrive in a dynamic and challenging environment.
+-As a web developer, I am seeking an internship to leverage my skills and to gain practical experience.
+I am passionate about using my knowledge to solve real-world problems and eager to learn from experienced professionals in the field.
+I built some websites with front-end and back-end and I am confident in my ability to thrive in a dynamic and challenging environment.
 --------------------------------------------------
 html | css | JavaScript | bootstrap | jQuery | c++ | git | github | sql | php | ASP.net
 

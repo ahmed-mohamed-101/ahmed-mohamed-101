@@ -14,7 +14,7 @@
 <br>
 
 About: <br>
--As a node js developer, I am seeking an internship to leverage my skills and to gain practical experience. I am passionate about using my knowledge to solve real-world problems and eager to learn from experienced professionals in the field. I built websites with front-end and back-end and I am confident in my ability to thrive in a dynamic and challenging environment.
+I am a Node.js backend developer passionate about using my knowledge to solve real-world problems. I am eager to learn from experienced professionals in the field. I have built websites with front-end and back-end components, and I am confident I can thrive in a dynamic and challenging environment.
 <br>----------------------------------------------------------------------<br>
 Technologies: <br>
 html | css | bootstrap | JavaScript | mysql | mongodb | node js | express js | c++ | oop | git | 
